@@ -7,5 +7,7 @@ use Illuminate\Http\Request;
 
 class userController extends Controller
 {
-    //
+ public function registerPageShowUp(){
+     return view('user.register');
+ }
 }
