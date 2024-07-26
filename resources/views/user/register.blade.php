@@ -38,8 +38,14 @@
                 <label for="password">Conform Password:</label>
                 <input type="password" name="cpassword" id="password" required>
 
+                <div class="checkbox-container">
+                    <input type="checkbox" id="agree" class="checkbox-custom">
+                    <label for="agree" class="checkbox-custom-label">I agree with the  terms of service and Privacy policy</label>
+                </div>
                 <button type="submit">Register</button>
             </form>
+
+            
         </div>
     </div>
     
