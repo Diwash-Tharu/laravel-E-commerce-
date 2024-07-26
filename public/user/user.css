@@ -1,0 +1,24 @@
+body
+{
+    /* background-color: #220101; */
+    font-family: 'Arial', sans-serif;
+} 
+
+.all
+{
+    /* background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    /* align-items: first baseline; */
+}
+.form
+{
+    background-color: rgb(244, 244, 244);
+    
+
+} 
