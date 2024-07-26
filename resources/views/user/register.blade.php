@@ -40,7 +40,7 @@
 
                 <div class="checkbox-container">
                     <input type="checkbox" id="agree" class="checkbox-custom">
-                    <label for="agree" class="checkbox-custom-label">I agree with the  terms of service and Privacy policy</label>
+                    <label for="agree" class="checkbox-custom-label">I agree with the <spam class="terms"> terms of service </spam> and  <samp class="terms">  policy </samp></label>
                 </div>
                 <button type="submit">Register</button>
             </form>
