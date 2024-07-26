@@ -23,7 +23,7 @@
                 </div>
             @endif -->
 
-            <h1 class="page-title">Create a New Account</h1>
+            <label class="page-title">Create a New Account</label>
             <form action="{{asset('')}}" method="POST">
                 @csrf
                 <label for="name">Full Name:</label>
